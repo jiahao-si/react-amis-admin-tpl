@@ -1,0 +1,9 @@
+/public
+/node_modules
+/package-lock.json
+/gh-pages
+/dist
+.idea/
+*.iml
+build/dist/
+dist.tar.gz
